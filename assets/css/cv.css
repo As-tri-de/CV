@@ -18,9 +18,11 @@ section {
     background-color:#17abb3;
     padding: 15px;
 }
+
 #sec2 {
-    background-color: #e3e3e3;
+    background-color: #ffffff;
 }
+
 h2 {
     font-family:"Raleway", sans-serif;
     text-align: end;
@@ -30,3 +32,12 @@ h1 {
     font-family: "Lato", sans-serif;
     text-align: end;
 }
+
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    background-color: #e3e3e3;
+
+}
+
