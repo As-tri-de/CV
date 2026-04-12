@@ -7,9 +7,8 @@
 }
 
 div {
-    display: flex;
-    flex-direction: column;
-    justify-content: ;
+    display: flexbox;
+    flex-direction: row;
     margin:0 auto;
     width: 1160px;
     padding: 20px;
