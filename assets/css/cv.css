@@ -20,7 +20,10 @@ section {
 }
 
 #sec2 {
-    background-color: #ffffff;
+    display: flex;
+    
+
+    background-color: #e3e3e3;
 }
 
 h2 {
@@ -35,9 +38,16 @@ h1 {
 
 .row {
     display: flex;
-    flex-direction: row;
+    flex-direction:column;
+    align-items: flex-start;
     width: 200px;
-    background-color: #e3e3e3;
+    background-color: #e3e3e3; 
+    padding:20px ;
 
 }
 
+.col {
+    display: flex;
+    align-items: flex-end;
+    width: 600px;
+}
