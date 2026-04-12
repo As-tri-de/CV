@@ -11,10 +11,18 @@ div {
     width: 1160px;
     padding: 20px;
 }
+
+section {
+    background-color:#17abb3;
+    padding: 15px;
+}
+
 h2 {
     font-family:"Raleway", sans-serif;
+    text-align: end;
 }
 
 h1 {
     font-family: "Lato", sans-serif;
+    text-align: end;
 }
