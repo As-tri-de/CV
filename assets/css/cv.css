@@ -35,6 +35,14 @@ img {
     border-radius: 50%;
 }
 
+#ti {
+    display: flex;
+    justify-content: center;
+    background-color: #17abb3;
+    
+}
+
+
 h2 {
     font-family:"Raleway", sans-serif;
     text-align: end;
