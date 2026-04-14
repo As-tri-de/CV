@@ -6,20 +6,16 @@
     src: url('../fonts/Raleway-Regular.ttf') format('truetype');
 }
 
+div {
+    margin:0 auto;
+    width: 1160px;
+    
+}
+
 header, footer {
     background-color:#17abb3;
     padding: 15px;
 }
-
-
-div {
-    display: flexbox;
-    flex-direction: row;
-    margin:0 auto;
-    width: 1160px;
-    padding: 20px;
-}
-
 
 h2 {
     font-family:"Raleway", sans-serif;
@@ -29,6 +25,12 @@ h2 {
 h1 {
     font-family: "Lato", sans-serif;
     text-align: end;
+}
+
+main {
+    display: flex;
+    justify-content: start;
+    gap:10px;
 }
 
 #sec2 {
