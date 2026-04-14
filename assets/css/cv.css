@@ -63,10 +63,18 @@ h2 {
 }
 
 
-#fla-1 {
+.rang1 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
+    width: 20px;
+    height: 20px;
+}
+
+
+.rang2 {
+    width: 20px;
+    height: 20px;
 }
 
 main {
