@@ -62,7 +62,12 @@ h2 {
     font-size: large;
 }
 
-
+#fla1 {
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    width: 160px;
+}
 
 #rang1 {
     display: flex;
