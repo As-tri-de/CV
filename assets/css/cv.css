@@ -63,6 +63,7 @@ h2 {
 }
 
 
+
 #rang1 {
     display: flex;
     flex-direction: row;
@@ -79,24 +80,28 @@ h2 {
     border: none;
     border-radius: 90px;
     color: #ffffff;
+    width: 20px;
 }
 
 #rang3 {
     display: flex;
     flex-direction: row;
-    align-items: start;
+    align-self: center;
+    justify-content: start;
     border: none;
     border-radius: 90px;
     color: #ffffff;
+    width: 20px;
 }
 
 #rang4 {
     display: flex;
     flex-direction: row;
-    align-items: start;
+    align-self: center;
     border: none;
-    border-radius: 90px;
+    border-radius: 100px;
     color: #ffffff;
+    width: 20px;
 }
 
 main {
