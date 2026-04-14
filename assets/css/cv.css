@@ -63,6 +63,11 @@ h2 {
     font-size: large;
 }
 
+#fla {
+    display: flex;
+    justify-content: center;
+}
+
 #fla1 {
     display: flex;
     flex-direction: column;
