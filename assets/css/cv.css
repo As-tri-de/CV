@@ -42,6 +42,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    
 }
 
 
@@ -50,6 +51,7 @@ header {
     flex-direction: column;
     align-items: center;
     background-color: #17abb3;
+    width: 300px;
     
 }
 
@@ -73,7 +75,7 @@ h2 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 100px;
+    width: 90px;
     height: 70px;
 }
 
@@ -81,14 +83,15 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-self: center;
-    width: 160px;
+    width: 250px;
+
 }
 
 #fla2 {
     display: flex;
     flex-direction: column;
     justify-self: center;
-    width: 160px;
+    width: 200px;
 }
 
 #rang1 {
