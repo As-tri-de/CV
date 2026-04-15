@@ -65,7 +65,10 @@ h2 {
 
 #fla {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    width: 900px;
+    height: 70px;
 }
 
 #fla1 {
