@@ -96,7 +96,7 @@ h2 {
 
 #maison {
     display: flex;
-    align-items: start;
+    align-self: start;
 }
 
 #rang1 {
