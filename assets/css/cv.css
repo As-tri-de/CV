@@ -18,8 +18,11 @@ header, footer {
 
 header {
     display: flex;
-    justify-content: center;
-    height: 150px;
+    flex-direction: row;
+    width: 1160px;
+    margin: auto;
+    background-color: #17abb3;
+    
 }
 
 #pho {
