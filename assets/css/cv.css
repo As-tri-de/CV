@@ -103,6 +103,20 @@ h2 {
     width: 100px;
 }
 
+#mail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+
+}
+
+
+
+
+
+
 #maison {
     display: flex; 
     flex-direction: row;
