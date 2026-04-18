@@ -116,7 +116,7 @@ h2 {
 #tel {
     display: flex;
     flex-direction: row;
-    justify-self: start;
+    justify-content: start;
     width: 20px;
     height: 20px;
 }
