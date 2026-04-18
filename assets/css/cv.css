@@ -83,7 +83,7 @@ h2 {
 #fla {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: start;
     width: 200px;
     height: 1px;
 }
