@@ -68,10 +68,11 @@ header {
 }
 
 h1 {
-    margin-bottom: 0%;
+    
     font-family: "Lato", sans-serif;
     color:#ffffff;
     font-weight: 100;
+    line-height: 7px;
     
 }
 
