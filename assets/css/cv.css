@@ -87,7 +87,7 @@ h2 {
 #fla {
     display: flex;
     flex-direction: row;
-    align-items: start;
+    justify-content: center;
     width: 300px;
     
 }
