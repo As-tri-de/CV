@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900')
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900');
 
 @font-face {
-    font-family: "Raleway";
-    src: url('./fonts/Raleway-Regular.woff') format('woff'),
-         url('./fonts/Raleway-Regular.ttf') format('truetype');
-         
+        font-family: "Raleway";
+        src: url('../fonts/Raleway-Regular.woff') format('woff'),
+            url('../fonts/Raleway-Regular.ttf') format('truetype');
+            
 }
 
 div {
@@ -80,7 +80,7 @@ h2 {
     font-family:"Raleway", sans-serif;
     color:#ffffff;
     font-size: larger;
-    font-weight: lighter;
+    font-weight: large;
 }
 
 #fla {
