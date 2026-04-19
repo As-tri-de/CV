@@ -151,7 +151,9 @@ a {
     width:20px
 }
 
-#co {
+p {
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
     color: #ffffff;
 }
 
