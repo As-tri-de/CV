@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900')
 
-@font-face{
+@font-face {
     font-family: "Raleway";
-    src:url('../fonts/Raleway-Regular.woff');
-    src: url('../fonts/Raleway-Regular.ttf') format('truetype');
+    src: url('/fonts/Raleway-Regular.woff') format('woff'),
+         url('/fonts/Raleway-Regular.ttf') format('truetype'),
+         url()
 }
 
 div {
@@ -143,9 +144,9 @@ h2 {
 }
 
 a {
-    font-family: "Lato", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 200;
-    font-size: larger;
+    
     color:#ffffff;
 }
 
