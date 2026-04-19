@@ -141,8 +141,7 @@ h2 {
     justify-content: end;
     width: 10px;
     height: 20px;
-    padding-top: 15px;
-    padding-left: 80px;
+    
 }
 
 #voi {
@@ -151,7 +150,7 @@ h2 {
     justify-content: end;
     width: 10px;
     height: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-right: 10px;
 }
 
