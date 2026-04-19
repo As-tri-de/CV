@@ -148,7 +148,8 @@ a {
     font-weight: 200;
     color:#ffffff;
     text-decoration: none;
-    width:20px
+    width:20px;
+    padding: 10px;
 }
 
 p {
