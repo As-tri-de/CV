@@ -145,6 +145,19 @@ h2 {
     padding-left: 80px;
 }
 
+#voi {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 10px;
+    height: 20px;
+    padding-top: 15px;
+    padding-left: 80px;
+}
+
+
+
+
 a {
     font-family: "Raleway", sans-serif;
     font-weight: 200;
@@ -154,7 +167,7 @@ a {
     padding-left: 10px;
 }
 
-p {
+#co{
     font-family: "Raleway", sans-serif;
     font-weight: 200;
     color: #ffffff;
