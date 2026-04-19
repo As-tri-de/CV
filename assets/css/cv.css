@@ -2,9 +2,9 @@
 
 @font-face {
     font-family: "Raleway";
-    src: url('/fonts/Raleway-Regular.woff') format('woff'),
-         url('/fonts/Raleway-Regular.ttf') format('truetype'),
-         url()
+    src: url('./fonts/Raleway-Regular.woff') format('woff'),
+         url('./fonts/Raleway-Regular.ttf') format('truetype');
+         
 }
 
 div {
@@ -81,7 +81,7 @@ h2 {
     font-family:"Raleway", sans-serif;
     color:#ffffff;
     font-weight: 300;
-    font-size: large;
+    font-size: larger;
 }
 
 #fla {
