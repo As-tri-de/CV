@@ -95,7 +95,7 @@ h2 {
 #fla1 {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: start;
     width: 100px;
 
 }
@@ -103,14 +103,14 @@ h2 {
 #fla2 {
     display: flex;
     flex-direction:column;
-    justify-content: center;
+    justify-content: start;
     width: 100px;
 }
 
 #mail {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: end;
     width: 20px;
     height: 20px;
 
@@ -120,7 +120,7 @@ h2 {
 #tel {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: end;
     width: 20px;
     height: 20px;
     padding-top: 20px;
@@ -129,7 +129,7 @@ h2 {
 #maison {
     display: flex; 
     flex-direction: row;
-    justify-content: center;
+    justify-content: end;
     width: 20px;
     height: 21px;
     
@@ -138,11 +138,11 @@ h2 {
 #voiture {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: end;
     width: 20px;
     height: 25px;
     padding-top: 15px;
-    padding-left: 40px;
+    padding-left: 50px;
 }
 
 a {
