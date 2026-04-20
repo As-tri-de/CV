@@ -209,3 +209,20 @@ main {
     background-color: #e3e3e3;
 }
 
+#ch {
+    display:flex;
+    flex-direction: row;
+
+}
+
+#com {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#etoile {
+    display: flex;
+    flex-direction: column;
+
+}
