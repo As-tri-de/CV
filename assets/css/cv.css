@@ -226,7 +226,12 @@ main {
     flex-direction: column;
 }
 
-.scor {
+#scor1 {
+    width:10px;
+    height: 10px;
+}
+
+#scor2 {
     width:10px;
     height: 10px;
 }
