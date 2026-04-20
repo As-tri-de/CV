@@ -218,11 +218,15 @@ main {
 #com {
     display: flex;
     flex-direction: column;
-    
+
 }
 
 #etoile {
     display: flex;
     flex-direction: column;
+}
 
+.scor {
+    width:10px;
+    height: 10px;
 }
