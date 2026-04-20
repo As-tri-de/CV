@@ -209,9 +209,3 @@ main {
     background-color: #e3e3e3;
 }
 
-#col {
-    align-self: flex-start;
-    width: 150px;
-    height:50px;
-    background-color: #c04e4e;
-}
