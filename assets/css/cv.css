@@ -223,7 +223,7 @@ main {
 
 #etoile {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 #scor1 {
