@@ -211,7 +211,6 @@ main {
 #ch {
     display:flex;
     flex-direction: row;
-    width: 300px;
 
 }
 
@@ -219,6 +218,12 @@ main {
     display: flex;
     flex-direction: column;
 
+}
+
+#ht {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #etoile {
