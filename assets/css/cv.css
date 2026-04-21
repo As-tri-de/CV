@@ -223,20 +223,22 @@ main {
 #ht {
     display: flex;
     flex-direction: row;
+    width:300px;
 }
 
 #etoile {
     display: flex;
     flex-direction: row;
-    width:300px;
+    width: 200px;
+    padding:20px;
 }
 
 #scor1 {
-    width:10px;
-    height: 10px;
+    width:15px;
+    height: 15px;
 }
 
 #scor2 {
-    width:10px;
-    height: 10px;
+    width:15px;
+    height: 15px;
 }
