@@ -191,14 +191,10 @@ main {
     justify-content: start;
     background-color: #e3e3e3;
     width: 320px;
+    padding: 20px;
     
 }
 
-#marg {
-    margin: 40px;
-    width: 250px;
-    height: 681px;
-}
 
 
 #row {
