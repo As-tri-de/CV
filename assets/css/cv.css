@@ -204,7 +204,7 @@ main {
 
 
 #row {
-    
+    margin: 20px;
     background-color: #e3e3e3;
 }
 
@@ -212,6 +212,7 @@ main {
     display:flex;
     flex-direction: row;
     width:300px;
+    margin: 20px;
 
 }
 
