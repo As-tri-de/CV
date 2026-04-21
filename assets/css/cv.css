@@ -191,7 +191,7 @@ main {
     justify-content: start;
     background-color: #e3e3e3;
     width: 320px;
-    padding: 20px;
+    padding: 40px;
     
 }
 
@@ -261,4 +261,5 @@ main {
     justify-content: start;
     background-color: #ffffff;
     width: 1000px;
+    padding: 40px;
 }
