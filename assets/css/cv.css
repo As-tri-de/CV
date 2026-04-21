@@ -196,7 +196,7 @@ main {
 }
 
 #marg {
-    width:280px;
+    width:260px;
     height:681px;
 }
 
@@ -212,7 +212,7 @@ h3 {
 #ch {
     display:flex;
     flex-direction: row;
-    width:260px;
+    width:240px;
     margin: 0;
 
 }
@@ -233,7 +233,7 @@ h3 {
 #etoile {
     display: flex;
     flex-direction: column;
-    width: 160px;
+    width: 140px;
     height: 50px;
     padding-left: 105px;
 }
