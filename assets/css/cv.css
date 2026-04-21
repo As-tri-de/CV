@@ -263,7 +263,7 @@ main {
     margin-bottom:20px ;
 }
 
-#scor1 {
+.scor {
     display: flex;
     flex-direction: row;
     padding-top:10px ;
