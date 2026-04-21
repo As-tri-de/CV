@@ -239,6 +239,29 @@ main {
     margin-bottom:20px ;
 }
 
+#rang2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width:150px;
+    margin-bottom:20px ;
+}
+
+#rang3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width:150px;
+    margin-bottom:20px ;
+}
+
+#rang4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width:150px;
+    margin-bottom:20px ;
+}
 
 #scor1 {
     display: flex;
