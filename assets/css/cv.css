@@ -220,11 +220,12 @@ main {
     display: flex;
     flex-direction: column;
     width:100px;
-    line-height: 1px;
 }
 
- {
-    line-height: 2px;
+.text {
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    line-height: 1px;
 }
 
 
