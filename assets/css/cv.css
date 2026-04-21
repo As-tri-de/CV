@@ -211,7 +211,7 @@ main {
 #ch {
     display:flex;
     flex-direction: row;
-    width:300px;
+    width:200px;
     margin: 20px;
 
 }
@@ -219,7 +219,7 @@ main {
 #com {
     display: flex;
     flex-direction: column;
-    width:150px;
+    width:100px;
 
 }
 
@@ -227,7 +227,7 @@ main {
 #etoile {
     display: flex;
     flex-direction: column;
-    width: 150px;
+    width: 100px;
     height: 50px;
     padding-top:10px;
 }
@@ -236,7 +236,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: start;
-    width:150px;
+    width:100px;
     margin-bottom:20px ;
 }
 
@@ -244,7 +244,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: start;
-    width:150px;
+    width:100px;
     margin-bottom:20px ;
 }
 
@@ -252,7 +252,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: start;
-    width:150px;
+    width:100px;
     margin-bottom:20px ;
 }
 
@@ -260,7 +260,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: start;
-    width:150px;
+    width:100px;
     margin-bottom:20px ;
 }
 
