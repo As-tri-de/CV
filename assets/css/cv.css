@@ -194,12 +194,8 @@ main {
     
 }
 
-#sec2 {
-    display: flex;
-    flex-direction:column;
-    justify-content: start;
-    background-color: #ffffff;
-    width: 1000px;
+#marg {
+    margin: 10px;
 }
 
 
@@ -252,3 +248,12 @@ main {
     
 }
 
+
+
+#sec2 {
+    display: flex;
+    flex-direction:column;
+    justify-content: start;
+    background-color: #ffffff;
+    width: 1000px;
+}
