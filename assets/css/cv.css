@@ -228,8 +228,6 @@ main {
     line-height: 1px;
 }
 
-
-
 #etoile {
     display: flex;
     flex-direction: column;
@@ -242,7 +240,7 @@ main {
     flex-direction: row;
     justify-content: start;
     width:100px;
-    margin-bottom:20px;
+    
 }
 
 
