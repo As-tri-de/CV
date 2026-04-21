@@ -220,9 +220,10 @@ main {
     display: flex;
     flex-direction: column;
     width:100px;
+    line-height: 1px;
 }
 
-p {
+ {
     line-height: 2px;
 }
 
