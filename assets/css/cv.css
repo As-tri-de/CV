@@ -227,11 +227,11 @@ main {
 #etoile {
     display: flex;
     flex-direction: column;
-    width: 100px;
+    width: 120px;
     height: 50px;
 }
 
-#rang1 {
+.rang {
     display: flex;
     flex-direction: row;
     justify-content: start;
@@ -266,7 +266,7 @@ main {
 .scor {
     display: flex;
     flex-direction: row;
-    padding-top:14px ;
+    padding-top:10px ;
     padding-right: 5px;
     width:20px;
     height:20px;
