@@ -211,6 +211,7 @@ main {
 #ch {
     display:flex;
     flex-direction: row;
+    width:300px;
 
 }
 
@@ -223,14 +224,15 @@ main {
 #ht {
     display: flex;
     flex-direction: row;
-    width:300px;
+    
 }
 
 #etoile {
     display: flex;
     flex-direction: row;
-    width: 200px;
-    padding:20px;
+    width: 20px;
+    height: 50px;
+    padding-top:20px;
 }
 
 #scor1 {
