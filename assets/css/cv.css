@@ -211,7 +211,7 @@ main {
 #ch {
     display:flex;
     flex-direction: row;
-    width:200px;
+    width:320px;
     margin: 20px;
 
 }
