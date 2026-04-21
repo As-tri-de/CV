@@ -223,12 +223,12 @@ main {
 #ht {
     display: flex;
     flex-direction: row;
-    justify-content: center;
 }
 
 #etoile {
     display: flex;
     flex-direction: row;
+    width:300px;
 }
 
 #scor1 {
