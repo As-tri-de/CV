@@ -218,7 +218,7 @@ main {
 #com {
     display: flex;
     flex-direction: column;
-    width:200px;
+    width:150px;
 
 }
 
@@ -226,7 +226,7 @@ main {
 #etoile {
     display: flex;
     flex-direction: column;
-    width: 100px;
+    width: 150px;
     height: 50px;
     padding-top:10px;
 }
@@ -235,6 +235,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: start;
+    width:150px;
     margin-bottom:20px ;
 }
 
