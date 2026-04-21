@@ -195,7 +195,9 @@ main {
 }
 
 #marg {
-    margin: 10px;
+    margin: 20px;
+    width: 250px;
+    height: 681px;
 }
 
 
@@ -207,13 +209,15 @@ main {
 #ch {
     display:flex;
     flex-direction: row;
-    width:300px;
+    width:260px;
+
 }
 
 #com {
     display: flex;
     flex-direction: column;
     width:100px;
+    margin:0px;
 }
 
 .text {
@@ -227,6 +231,7 @@ main {
     flex-direction: column;
     width: 160px;
     height: 50px;
+    margin: 0px;
 }
 
 .rang {
