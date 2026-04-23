@@ -257,6 +257,29 @@ h3 {
     
 }
 
+#ca-2{
+    display:flex;
+    flex-direction: row;
+    width:240px;
+    margin: 0;
+}
+
+#langues{
+    display: flex;
+    flex-direction: column;
+    width:100px;
+    margin:0px;
+}
+
+#niveau{
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    height: 50px;
+    padding-left: 90px;
+}
+
+
 
 
 #sec2 {
