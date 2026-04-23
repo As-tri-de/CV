@@ -7,7 +7,7 @@
             
 }
 
-div {
+#conteneur {
     margin:0 auto;
     width: 1160px;
 }
@@ -281,7 +281,6 @@ h3 {
 
 #lm {
     width:120px;
-    
     padding-right:90px;
 }
 
