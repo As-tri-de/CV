@@ -279,18 +279,19 @@ h3 {
     padding-left: 70px;
 }
 
-
-
 #lm {
-    padding-right:20px ;
+    width:120px;
+    padding-right:200px;
 }
 
 #in {
-    padding-left:10px ;
+    width:120px;
+    padding-left:10px;
 }
 
 #ba {
-    padding-left: 90px;
+    width:100px;
+    padding-left: 60px;
 }
 
 #sec2 {
