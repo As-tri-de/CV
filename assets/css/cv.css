@@ -143,7 +143,7 @@ h2 {
     width: 10px;
     height: 20px;
     padding-top: 5px;
-    padding-left: 72px;
+    padding-left: 70px;
     
 }
 
@@ -154,7 +154,7 @@ h2 {
     width: 10px;
     height: 20px;
     padding-top: 10px;
-    padding-right: 7px;
+    padding-right: 10px;
 }
 
 a {
@@ -167,11 +167,13 @@ a {
 }
 
 #co{
+    display: flex;
+    flex-direction: row;
     font-family: "Raleway", sans-serif;
     font-weight: 200;
     color: #ffffff;
-    padding-left: 5px;
-    padding-top: 20px;
+    padding-top: 10px;
+    width: 50px;
 }
 
 
