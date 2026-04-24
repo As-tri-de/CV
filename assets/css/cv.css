@@ -142,7 +142,7 @@ h2 {
     width: 10px;
     height: 20px;
     padding-top: 5px;
-    padding-left: 30px;
+    padding-left: 25px;
     
 }
 
@@ -166,14 +166,12 @@ a {
 }
 
 #co{
-    display: flex;
-    flex-direction: row;
     font-family: "Raleway", sans-serif;
     font-weight: 200;
     color: #ffffff;
     padding-left: 5px;
     padding-bottom: 10px;
-    width:30px;
+    width:40px;
 }
 
 
