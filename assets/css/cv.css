@@ -12,10 +12,6 @@
     width: 1160px;
 }
 
-header, footer {
-    background-color:#17abb3;
-    padding: 15px;
-}
 
 header {
     display: flex;
@@ -23,8 +19,9 @@ header {
     background-color: #17abb3;
     margin: auto;
     height: 150px;
+    padding: 15px;
     padding-bottom: 40px;
-    padding-top: 10px ;
+    padding-top: 20px ;
     
 }
 
@@ -301,4 +298,13 @@ h3 {
     background-color: #ffffff;
     width: 1000px;
     padding: 40px;
+}
+
+
+
+
+footer {
+    background-color:#17abb3;
+    padding: 15px;
+    height:40px;
 }
