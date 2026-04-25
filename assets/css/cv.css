@@ -284,18 +284,24 @@ h3 {
 }
 
 #lm {
-    width:120px;
-    padding-left:20px;
+    width:150px;
+    padding-right: 7px;
 }
 
 #in {
     width:120px;
-    padding-left:55px;
+    padding-left:40px;
 }
 
 #ba {
     width:100px;
-    padding-left: 105px;
+    padding-left: 99px;
+}
+
+.niv {
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
+    line-height: 20px;
 }
 
 #sec2 {
