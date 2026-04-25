@@ -269,6 +269,12 @@ h3 {
     margin:0px;
 }
 
+.lan {
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    line-height: 30px;
+}
+
 #niveau{
     display: flex;
     flex-direction: column;
