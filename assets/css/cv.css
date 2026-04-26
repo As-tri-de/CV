@@ -305,11 +305,15 @@ h3 {
 }
 
 ul {
-    padding-left: 20px;
-    list-style-type: square;
-    color: #17abb3;
+  list-style: none;
+  padding: 0;
 }
 
+li::before {
+    content: "■ ";
+    color: #17abb3;
+    padding-left: 0px;
+}
 
 
 #sec2 {
