@@ -174,7 +174,7 @@ a {
     width: 50px;
 }
 
-
+/*commencement du main*/
 
 main {
     display: flex;
@@ -182,6 +182,7 @@ main {
     
 }
 
+/*commencement de le section tout à gauche en fond gris*/
 
 #sec1 {
     display: flex;
@@ -304,6 +305,8 @@ h3 {
     line-height: 30px;
 }
 
+/*commencement des deux dernier carré tout à gauche*/
+
 ul {
   list-style: none;
   padding: 0;
@@ -313,9 +316,17 @@ li::before {
     content: "■ ";
     color: #17abb3;
     padding-left: 0px;
+    font-family: "Raleway", sans-serif;
+}
+
+.ca4-5 {
+
 }
 
 
+
+
+/*commencement de la section à droit en fond blanc*/
 #sec2 {
     display: flex;
     flex-direction:column;
