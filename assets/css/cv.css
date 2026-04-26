@@ -205,6 +205,7 @@ h3 {
     color: #17abb3;
     font-weight: 600;
     font-size: 1.4em;
+    margin-bottom: 0;
     
 }
 
@@ -321,10 +322,8 @@ li::before {
 .ca4-5 {
     font-family: "Raleway", sans-serif;
     padding-left:10px;
-    padding-bottom: 20px;
+    
 }
-
-
 
 
 /*commencement de la section à droit en fond blanc*/
