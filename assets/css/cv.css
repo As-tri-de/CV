@@ -316,11 +316,12 @@ li::before {
     content: "■ ";
     color: #17abb3;
     padding-left: 0px;
-    font-family: "Raleway", sans-serif;
 }
 
 .ca4-5 {
-
+    font-family: "Raleway", sans-serif;
+    padding-left:10px;
+    padding-bottom: 20px;
 }
 
 
