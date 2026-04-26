@@ -3,7 +3,8 @@
 @font-face {
         font-family: "Raleway";
         src: url('../fonts/Raleway-Regular.woff') format('woff'),
-            url('../fonts/Raleway-Regular.ttf') format('truetype');
+            url('../fonts/Raleway-Regular.ttf') format('truetype'),
+            url('../fonts/Raleway-Bold.ttf') format('truetype');
             
 }
 
@@ -225,7 +226,7 @@ h3 {
 }
 
 .text {
-    font-family: 'raleway', sans-serif;
+    font-family: 'Raleway',sans-serif;
     font-weight: bolder;
     line-height: 1px;
 }
