@@ -37,6 +37,12 @@ header {
    
 }
 
+img:hover {
+    transform: scale(1.2);
+    opacity:1;
+
+}
+
 #im1 {
     width: 120px;
     height: 120px;
@@ -45,10 +51,6 @@ header {
     margin: 1px 20px 1px 50px;
 }
 
-img:hover {
-    zoom: 500%;
-
-}
 
 #div1 {
     display: flex;
