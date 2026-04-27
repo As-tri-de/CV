@@ -190,7 +190,6 @@ a {
     width: 50px;
 }
 
-/*commencement du main*/
 
 main {
     display: flex;
@@ -294,6 +293,9 @@ h3 {
 }
 
 #niveau{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    line-height: 30px;
     display: flex;
     flex-direction: column;
     width: 140px;
@@ -316,11 +318,6 @@ h3 {
     padding-left: 99px;
 }
 
-.niv {
-    font-family: "Raleway", sans-serif;
-    font-weight: 400;
-    line-height: 30px;
-}
 
 /*commencement des deux dernier carré tout à gauche*/
 
