@@ -359,3 +359,15 @@ footer {
     padding: 15px;
     height:40px;
 }
+
+#conteneur2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.app {
+    width: 30px;
+    height:30px;
+    
+}
