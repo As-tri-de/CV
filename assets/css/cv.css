@@ -364,10 +364,18 @@ footer {
     display:flex;
     flex-direction: column;
     justify-content: center;
+    height:40px;
+    width:1160px;
+}
+
+#logo{
+    display:flex;
+    flex-direction: row;
+    
 }
 
 .app {
-    width: 30px;
-    height:30px;
-    
+    width: 5px;
+    height:5px;
+
 }
