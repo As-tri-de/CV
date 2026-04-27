@@ -229,7 +229,7 @@ h3 {
     display:flex;
     flex-direction: row;
     width:240px;
-    height: 140px;
+    height: 140px; 
     margin: 0;
 
 }
@@ -239,14 +239,17 @@ h3 {
     flex-direction: column;
     width:100px;
     margin:0px;
+    padding: 5px;
 }
 
 .text {
-    display: flex;
-    flex-direction: column;
     font-family: 'Raleway',sans-serif;
     font-weight: bolder;
     line-height: 1px;
+    height: 100px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
 }
 
 #etoile {
@@ -262,7 +265,7 @@ h3 {
     flex-direction: row;
     justify-content: start;
     width:100px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     
 }
 
