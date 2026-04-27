@@ -375,7 +375,23 @@ footer {
 }
 
 #app1 {
+    display: flex;
+    flex-direction: row;
     width: 5px;
     height:5px;
+}
+
+#app2 {
+    display: flex;
+    flex-direction: row;
+    width: 30px;
+    height:30px;
+}
+
+#app3 {
+    display: flex;
+    flex-direction: row;
+    width: 30px;
+    height:30px;
 
 }
