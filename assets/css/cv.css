@@ -224,10 +224,12 @@ h3 {
     
 }
 
+
 #ca-1 {
     display:flex;
     flex-direction: row;
     width:240px;
+    height: 140px;
     margin: 0;
 
 }
@@ -240,6 +242,8 @@ h3 {
 }
 
 .text {
+    display: flex;
+    flex-direction: column;
     font-family: 'Raleway',sans-serif;
     font-weight: bolder;
     line-height: 1px;
@@ -350,7 +354,10 @@ li::before {
 }
 
 
-
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
 
 
 
