@@ -407,5 +407,8 @@ footer {
     font-size: smaller;
     padding: 3px;
 
+}
 
+.italic:hover {
+    opacity: 1.6;
 }
