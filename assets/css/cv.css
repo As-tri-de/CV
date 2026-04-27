@@ -355,13 +355,13 @@ li::before {
 
 
 
-footer {
-    background-color:#17abb3;
-    padding: 15px;
-    height:45px;
-}
+
+
+/*footer*/
 
 #conteneur2 {
+    background-color:#17abb3;
+    padding: 15px;
     display:flex;
     flex-direction: column;
     justify-content: center;
