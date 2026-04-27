@@ -358,14 +358,14 @@ li::before {
 footer {
     background-color:#17abb3;
     padding: 15px;
-    height:40px;
+    height:45px;
 }
 
 #conteneur2 {
     display:flex;
     flex-direction: column;
     justify-content: center;
-    height:40px;
+    height:45px;
     width:1160px;
 }
 
@@ -373,7 +373,7 @@ footer {
     display:flex;
     flex-direction: row;
     justify-content: center;
-    
+    padding-top: 5px;
 }
 
 #app1 {
@@ -403,5 +403,9 @@ footer {
     font-family: "Raleway", sans-serif;
     color: #ffffff;
     text-align: center;
+    font-style: italic  ;
+    font-size: smaller;
+    padding: 3px;
+
 
 }
