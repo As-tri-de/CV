@@ -375,11 +375,18 @@ p {
 }
 
 .align {
+    color:#17abb3;
     font-family: "Raleway", sans-serif;
-    padding-left: 525px;
     text-align: end;
 }
 
+#pa1 {
+    padding-left: 525px;
+}
+
+#pa2 {
+    padding-left: 530px;
+}
 
 /*footer*/
 
