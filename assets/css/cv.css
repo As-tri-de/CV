@@ -380,8 +380,12 @@ p {
     text-align: end;
 }
 
-#pa1 {
+#pa {
     padding-left: 525px;
+}
+
+#pa1 {
+    padding-left: 515px;
 }
 
 #pa2 {
