@@ -399,8 +399,8 @@ strong {
 
 /*div id=for dans le 2eme article*/
 
-#for2 {
-    padding-top: 8px;
+.for2 {
+    padding-top: 10px;
 }
 
 /*footer*/
