@@ -367,6 +367,18 @@ p {
     
 }
 
+.italique {
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.align {
+    font-family: "Raleway", sans-serif;
+    text-align: end;
+}
+
+
 /*footer*/
 
 #conteneur2 {
